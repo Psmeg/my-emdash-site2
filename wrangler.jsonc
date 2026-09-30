@@ -23,3 +23,10 @@
 		"crons": ["* * * * *"],
 	},
 }
+{
+  // ...
+  "vars": {
+    "EMDASH_SITE_URL": "https://my-emdash-site2.paul-78f.workers.dev"
+  },
+  // ...
+}
